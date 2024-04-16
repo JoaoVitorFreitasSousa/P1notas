@@ -1,0 +1,4 @@
+nota1: 1
+nota2: 3
+
+media: 2
